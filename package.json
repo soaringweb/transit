@@ -1,0 +1,28 @@
+{
+  "name": "transit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soaringweb/transit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soaringweb/transit/issues"
+  },
+  "homepage": "https://github.com/soaringweb/transit#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
